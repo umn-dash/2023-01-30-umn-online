@@ -352,6 +352,9 @@ of code below the Schedule `<h2>` header below with
 `{% include custom-schedule.html %}`.
 {% endcomment %}
 
+<h2 id="material">Workshop Materials</h2>
+This workshop will cover the material from UMN DASH's version of the Programming With Python curriculum from Software Carpentries. You can find this material freely available for reference and use [at this page on github]{https://umn-dash.github.io/python-novice-inflammation/}.
+
 <h2 id="schedule">Schedule</h2>
 
 {% if site.carpentry == "swc" %}
